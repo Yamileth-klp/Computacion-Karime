@@ -1,0 +1,17 @@
+# Ejemplo de variables
+print (nombre) = "Ana"
+print (edad) = 25
+print (estatura) = 1.68
+print (estudiante) = True
+print (edad) = 25
+print (año) = 2023
+print (puntaje) = -10
+pi = 3.1416
+precio = 19.99
+temperatura = -5.5
+nombre = "Carlos"
+mensaje = 'Hola, ¿cómo estás?'
+direccion = "Calle Falsa 123"
+es_estudiante = True
+tiene_descuento = False
+mayor_de_edad = True
